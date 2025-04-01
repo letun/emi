@@ -16,3 +16,7 @@ https://emi-courses.ru/dev_test_task
 -   [Быстрый старт на платформе](https://chatium.ru/docs/start)
 -   [Документация](https://docs.chatium.com/ru)
 -   [Пример работы с файлами](https://play.chatium.com/s/ide/codecast/simple/media)
+
+## Реультат:
+
+https://letun.chatium.ai/start
